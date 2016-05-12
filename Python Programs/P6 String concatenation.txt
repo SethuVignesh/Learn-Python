@@ -1,0 +1,6 @@
+str1= raw_input("Enter the String 1 ")
+str2= raw_input("Enter the String 2 ")
+
+con= str1 + str2
+
+print("The Concatenation of {0} and {1} is {2}".format(str1,str2,con))
