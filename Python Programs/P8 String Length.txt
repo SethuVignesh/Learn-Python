@@ -1,0 +1,6 @@
+str1= raw_input("Enter the String ")
+
+
+
+print("The length of the String is " + str(len(str1)))
+
