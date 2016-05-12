@@ -1,0 +1,7 @@
+str1= raw_input("Enter the String ")
+
+
+
+print("The upper case is "+str1.lower())
+
+print("The upper case is "+str1.upper())
